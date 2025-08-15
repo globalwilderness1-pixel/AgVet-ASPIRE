@@ -1,0 +1,32 @@
+{
+    "physics": {
+        "intro": "Physics is the study of matter, energy, and the fundamental forces of nature.",
+        "color": "blue",
+        "chapters": ["Mechanics", "Optics"]
+    },
+    "math": {
+        "intro": "Mathematics provides the tools for solving complex problems in science.",
+        "color": "red",
+        "chapters": ["Algebra", "Calculus"]
+    },
+    "chemistry": {
+        "intro": "Chemistry explores the composition and reactions of substances.",
+        "color": "purple",
+        "chapters": ["Organic", "Inorganic"]
+    },
+    "english": {
+        "intro": "English enhances communication skills essential for exams.",
+        "color": "orange",
+        "chapters": ["Grammar", "Vocabulary"]
+    },
+    "zoology": {
+        "intro": "Zoology is the branch of biology that studies animals.",
+        "color": "brown",
+        "chapters": ["Anatomy", "Ecology"]
+    },
+    "botany": {
+        "intro": "Botany focuses on plant life and its processes.",
+        "color": "green",
+        "chapters": ["Photosynthesis", "Genetics"]
+    }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Physics",
+        "year": 2023,
+        "file": "pdfs/physics-2023.pdf"
+    },
+    {
+        "subject": "Chemistry",
+        "year": 2023,
+        "file": "pdfs/chemistry-2023.pdf"
+    },
+    {
+        "subject": "Math",
+        "year": 2023,
+        "file": "pdfs/math-2023.pdf"
+    }
+]

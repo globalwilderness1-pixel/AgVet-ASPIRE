@@ -1,0 +1,19 @@
+{
+    "questions": [
+        {
+            "question": "What is Newton's first law?",
+            "options": ["Inertia", "F=ma", "Action-reaction", "Gravity"],
+            "answer": 0
+        },
+        {
+            "question": "Unit of force?",
+            "options": ["Joule", "Newton", "Watt", "Ampere"],
+            "answer": 1
+        },
+        {
+            "question": "Acceleration due to gravity?",
+            "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "0"],
+            "answer": 0
+        }
+    ]
+}
