@@ -1,5 +1,13 @@
 [
     {
+    "title": "New Entrance Exam Update",
+    "date": "2025-08-16",
+    "description": "Check the latest syllabus for AgVet entrance.",
+    "pdf": "pdfs/new-notice.pdf"
+
+    },
+
+    {
         "title": "Tribhuvan University Entrance Exam Announcement",
         "date": "2025-08-10",
         "description": "Applications open for Applied Science programs.",
@@ -17,4 +25,5 @@
         "description": "New syllabus for AgVet entrance.",
         "pdf": "pdfs/notice-pu-2025.pdf"
     }
+
 ]
